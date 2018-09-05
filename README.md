@@ -31,3 +31,5 @@ Proceda com a instalação com $npm install markdown-da-julia-zapata
 
 Roadmap oficial do projeto
 
+versão 1.0.1
+- Adicionado o READM.me com instruções.
