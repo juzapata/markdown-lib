@@ -1,0 +1,22 @@
+{
+  "name": "markdown-da-julia-zapata",
+  "version": "1.0.0",
+  "description": "Biblioteca que retorna os sites dentro de um texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juzapata/markdown-lib.git"
+  },
+  "author": "Julia Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juzapata/markdown-lib/issues"
+  },
+  "homepage": "https://github.com/juzapata/markdown-lib#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
