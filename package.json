@@ -1,6 +1,6 @@
 {
   "name": "markdown-da-julia-zapata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Biblioteca que retorna os sites dentro de um texto",
   "main": "index.js",
   "scripts": {
