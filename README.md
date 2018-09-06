@@ -1,4 +1,4 @@
-# Conversor de números v.1.0.0
+# Extrator de links de arquivos markdown (Node.js) v.1.0.0
 
 **Esta biblioteca se destina à extração de links de arquivos markdown (Node.js).**
 
@@ -36,3 +36,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 #### versão 1.0.1
 - Adicionado o READM.me com instruções.
+
+#### versão 1.0.2
+- Mudança do título do READ.me.
