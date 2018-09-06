@@ -38,4 +38,5 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - Adicionado o READM.me com instruções.
 
 #### versão 1.0.2
-- Mudança do título do READ.me.
+- Mudança do título do README.md.
+- Eslint aplicado com sucesso
